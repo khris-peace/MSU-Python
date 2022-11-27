@@ -1,0 +1,6 @@
+0042 cat male Pushok 13.09.2015 31.12.2016
+0043 dog female Dora 29.01.2015 31.12.2016
+0003 cat female Eva 03.03.2017 31.12.2016
+0045 dog male Puck 29.01.2015 31.12.2016
+0046 spider male Mick 13.09.2015 31.12.2016
+0047 spider female Dick 29.01.2015 31.12.2016
